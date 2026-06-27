@@ -112,6 +112,7 @@ aa173f5 fix: include the last song when listing playlist songs
 20b26e1 fix: increment listening streak on Sunday instead of resetting
 ```
 
-*(Screenshot of `git log --oneline` to be attached in the portal submission.)*
+<img width="791" height="113" alt="git log" src="https://github.com/user-attachments/assets/8d63e09c-b259-4d02-ae10-41472a2b39f3" />
+
 
 **Full suite after all fixes:** `15 passed`.
